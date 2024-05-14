@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leedbswo107/game/static/css/main.b7c85056.css",
+    "main.js": "/leedbswo107/game/static/js/main.40b266ba.js",
+    "static/js/453.a5a72b74.chunk.js": "/leedbswo107/game/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/leedbswo107/game/index.html",
+    "main.b7c85056.css.map": "/leedbswo107/game/static/css/main.b7c85056.css.map",
+    "main.40b266ba.js.map": "/leedbswo107/game/static/js/main.40b266ba.js.map",
+    "453.a5a72b74.chunk.js.map": "/leedbswo107/game/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c85056.css",
+    "static/js/main.40b266ba.js"
+  ]
+}
